@@ -1,4 +1,4 @@
-package Reggression
+package Regression
 import org.openqa.selenium.WebDriver;
 public class VerifyTitle {
 
